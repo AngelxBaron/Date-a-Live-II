@@ -1,3 +1,3 @@
 Date-a-Live-II
 ==============
-https://github.com/AngelxBaron/Date-a-Live-II/new/master?readme=1
+https://docs.google.com/document/d/1F9Igf1fYUeBqH-PCC04WKdWLl7fWoxeKhvBx25xiLWA/edit
